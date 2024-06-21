@@ -6,7 +6,7 @@
 
 	<groupId>com.springboot</groupId>
 	<artifactId>simple-springboot-app</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<packaging>jar</packaging>
 
 	<description>Demo project for Spring Boot</description>
